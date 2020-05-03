@@ -1,0 +1,6 @@
+C:\Shweta\ShwetaData\Projects\cavity-map\cavity-map\bin\Debug\cavity-map.exe.config
+C:\Shweta\ShwetaData\Projects\cavity-map\cavity-map\bin\Debug\cavity-map.exe
+C:\Shweta\ShwetaData\Projects\cavity-map\cavity-map\bin\Debug\cavity-map.pdb
+C:\Shweta\ShwetaData\Projects\cavity-map\cavity-map\obj\Debug\cavity-map.csprojResolveAssemblyReference.cache
+C:\Shweta\ShwetaData\Projects\cavity-map\cavity-map\obj\Debug\cavity-map.exe
+C:\Shweta\ShwetaData\Projects\cavity-map\cavity-map\obj\Debug\cavity-map.pdb
